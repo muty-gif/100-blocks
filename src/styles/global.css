@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background: #111;
+  color: #eee;
+  font-family: sans-serif;
+}
+
+.app {
+  padding: 12px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 4px;
+  margin-top: 12px;
+}
+
+.block {
+  width: 100%;
+  aspect-ratio: 1;
+  border: 1px solid #333;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.block.completed {
+  background: #666;
+}
+
+.block .fill {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #aaa;
+  transform-origin: bottom;
+  transform: scaleY(0);
+  transition: transform 1s linear;
+}
