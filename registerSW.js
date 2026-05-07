@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/100-blocks/sw.js', { scope: '/100-blocks/' })})}
