@@ -21,4 +21,4 @@ I designed and built a mobile-first single-page application that visualizes a us
 
 ## Article
 
-- [@waitbutwhyhttps]://waitbutwhy.com/2016/10/100-blocks-day.html
+- [@waitbutwhyhttps](//waitbutwhy.com/2016/10/100-blocks-day.html)
