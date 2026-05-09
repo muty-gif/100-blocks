@@ -14,3 +14,11 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Project
+
+I designed and built a mobile-first single-page application that visualizes a user’s day as 100 blocks of 10 minutes each (1,000 minutes total) from Tim Urban's article. The experience should feel calm, lightweight, and highly visual (also depressing if you consider that you learn how your time is managed and see how much is wasted) helping users become more aware of how they spend their time.
+
+## Article
+
+- [@waitbutwhyhttps]://waitbutwhy.com/2016/10/100-blocks-day.html
