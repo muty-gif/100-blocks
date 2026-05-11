@@ -1,4 +1,9 @@
-# React + Vite
+# Description
+I designed and built a mobile-first single-page application that visualizes a user’s day as 100 blocks of 10 minutes each (1,000 minutes total). The experience *should* feel calm, lightweight, and highly visual, overall helping users become more aware of how they spend their time.
+
+- [https://muty-gif.github.io/100-blocks/]
+
+# React + Vite (template, ignore)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
