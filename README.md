@@ -23,4 +23,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Article
 This idea is not mine, it was from Tim Urban's article posted almost 10 years ago, he was my inspiration.[^1] 
 
-[^1] : [@waitbutwhyhttps](//waitbutwhy.com/2016/10/100-blocks-day.html)
+[^1]: [//waitbutwhy.com/2016/10/100-blocks-day.html]
